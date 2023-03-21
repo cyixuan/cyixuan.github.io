@@ -21,3 +21,18 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
    background-color: #495057;
    color: #fff
 }
+
+:root {
+   --bs-primary: #95CACA;
+   --bs-primary-rgb: 11, 0, 166;
+   --bs-secondary: #FFD306;
+   --bs-secondary-rgb: 238, 143, 0;
+}
+
+.expedu_icon:hover {
+   color: var(--bs-secondary);
+}
+
+a {
+   color: var(--bs-primary);
+}
