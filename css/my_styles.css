@@ -13,8 +13,8 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 }
 
 .expedu_icon {
-   color: #495057
-   
+   color: #495057;
+   text-decoration: none;
 }
 
 .expedu_icon:hover {
