@@ -22,8 +22,8 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 }
 
 :root {
-   --bs-primary: #95CACA;
-   --bs-primary-rgb: 149, 202, 202;
+   --bs-primary: #408080;
+   --bs-primary-rgb: 64, 128, 128;
    --bs-secondary: #FFD306;
    --bs-secondary-rgb: 255, 211, 6;
 }
